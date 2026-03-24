@@ -5,6 +5,7 @@ A Lua library for detecting and filtering forbidden words from quick engine
 - **High Performance** 
 - **Low Memory Footprint**
 - **Zero Memory Overhead with qxtable/qstable**
+- **QQ Group**: 1075858599
 
 # usages:
 ```lua 
