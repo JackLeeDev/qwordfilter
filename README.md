@@ -1,11 +1,10 @@
 # qwordfilter
 A Lua library for detecting and filtering forbidden words from quick engine
 
-✨ Core Features
-High Performance
-Low Memory Footprint
-Zero Memory Overhead with qxtable/qstable
-
+✨ **Core Features**  
+- **High Performance** 
+- **Low Memory Footprint**
+- **Zero Memory Overhead with qxtable/qstable**
 
 # usages:
 ```lua 
